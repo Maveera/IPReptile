@@ -24,7 +24,7 @@ print("GitHub    : https://github.com/Maveera/")
 print("\nProcessing...\n")
 
 # === Configuration ===
-API_KEY = "717fd96580d0966084dde4440a66c417b9fd82d6bd55195271e72f0fe4e0bd0c41453d7b3b6ce1b7"  # Replace with your AbuseIPDB API key
+API_KEY = "YOUR_API_KEY"  # Replace with your AbuseIPDB API key
 INPUT = "unique_ips.csv"
 OUTPUT = "reputation_results.csv"
 DAYS = 90  # Check reports in last 90 days
