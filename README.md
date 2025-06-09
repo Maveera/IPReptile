@@ -32,3 +32,15 @@ Easily evaluate IPs against abuse score, last reported time, total abuse reports
 1. Replace the `API_KEY` inside `ipreptile.py` with your [AbuseIPDB](https://www.abuseipdb.com/account/api) key.
 2. Prepare `unique_ips.csv`:
 
+---
+
+## 👤 Author Info
+
+Author     : **Maveera G v**  
+Created    : JUN 10, 2025  
+Maintainer : **Mavizz**
+
+🌐 [Website](https://maveera.rf.gd/)  
+📷 [Instagram](https://www.instagram.com/_.mavi._27_/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/maveera/)  
+💻 [GitHub](https://github.com/Maveera/)
